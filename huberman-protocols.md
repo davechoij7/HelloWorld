@@ -51,7 +51,7 @@ Taken 30-60 minutes before bed (try behavioral changes first):
 |---|---|---|
 | Magnesium L-Threonate | 140 mg | Crosses blood-brain barrier; supports sleep quality |
 | L-Theanine | 100-400 mg | Increases GABA and alpha brain waves |
-| Apigenin | 50 mg | Reduces anxiety and promotes relaxation |
+| Apigenin | 50 mg | Reduces anxiety and promotes relaxation (note: mild estrogen suppressor -- women may want to skip) |
 
 Occasional additions: Inositol (900 mg), GABA (100 mg), Glycine (2 g) -- rotated, not used nightly. Huberman generally avoids melatonin supplementation.
 
@@ -128,6 +128,7 @@ Huberman's protocol covers all major fitness goals across one week, targeting ea
 - **Timing:** Do NOT combine with resistance training on the same day (anti-inflammatory effects can blunt hypertrophy). Wait at least 6-8 hours if needed
 - **Technique:** Move limbs in the water (don't sit still) to break the thermal layer for greater stimulus
 - Cold exposure significantly increases dopamine (up to 2.5x baseline) for several hours
+- **Soberg Principle:** End on cold -- do not warm up artificially afterward. Let shivering activate brown fat and extend the metabolic benefits
 
 ---
 
@@ -233,9 +234,11 @@ Dopamine exists in a "pool" or reservoir. Every peak in dopamine is followed by 
 
 1. **Avoid stacking dopamine triggers** before or during work (e.g., don't combine pre-workout + music + caffeine + phone scrolling before training -- save some for the work itself)
 2. **Moderate peaks, avoid crashes:** Repeated large dopamine fluctuations deplete the reservoir. Regular, moderate increases keep the pool stable
-3. **Protect the baseline:** The baseline level of dopamine determines your day-to-day motivation. Chronically spiking dopamine (social media, junk food, substances) lowers the baseline over time
-4. **Refill through sleep:** Deep sleep replenishes the dopamine reservoir each night
-5. **NSDR as a reset:** 10-30 minute NSDR sessions can restore dopamine levels mid-day
+3. **Use Random Intermittent Reward Timing (RIRT):** Celebrate wins, but not every win. Sometimes enjoy a milestone fully; other times, just keep going. This is the most powerful schedule for sustaining dopamine-driven motivation
+4. **Protect the baseline:** The baseline level of dopamine determines your day-to-day motivation. Chronically spiking dopamine (social media, junk food, substances) lowers the baseline over time
+5. **Learn to spike dopamine from effort itself:** Reframe hard work as the reward rather than fixating on outcomes. Focusing only on end rewards makes the process feel more painful
+6. **Refill through sleep:** Deep sleep replenishes the dopamine reservoir each night
+7. **NSDR as a reset:** 10-30 minute NSDR sessions can restore dopamine levels mid-day
 
 ### Practical Dopamine Scheduling
 
